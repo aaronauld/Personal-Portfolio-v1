@@ -1,5 +1,5 @@
 # Personal Portfolio Website (Built using React + Tailwind)
-![Alt text](/relative/path/to/web.png?raw=true "photo of website")
+![Website image](/web.png)
 ## Project Overview
 * Implemented Tailwind in conjunction with React to create a personal potfolio website
 * Repository contains all the relevant files and components used throughout the website and details packages used
